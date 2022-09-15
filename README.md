@@ -1,6 +1,6 @@
 ### Olá! Me chamo Gabriel Silva👋
 
-- 🔭 Hoje trabalho com contabilidade
+- 🔭 Em busca de uma oportunidade de engenheiro de dados
 - 🌱 Estudando e praticando para se tornar um desenvolvedor web
 - 😄 Pronouns: ele/dele
 <div align="center">
