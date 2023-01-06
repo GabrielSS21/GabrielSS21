@@ -1,7 +1,7 @@
 ### Olá! Me chamo Gabriel Silva👋
 
-- 🔭 Em busca de uma oportunidade de engenheiro de dados
-- 🌱 Estudando e praticando para se tornar um engenheiro de dados
+- 🔭 Em busca de uma oportunidade na área de dados
+- 🌱 Estudando e praticando para se tornar uma referencia na área de dados
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/GabrielSS21">
